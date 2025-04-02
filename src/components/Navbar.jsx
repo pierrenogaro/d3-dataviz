@@ -25,6 +25,9 @@ const Navbar = () => {
                         <li className="nav-item">
                             <Link className="nav-link" to="/pie">Pie Chart</Link>
                         </li>
+                        <li className="nav-item">
+                            <Link className="nav-link" to="/line">Line Chart</Link>
+                        </li>
                     </ul>
                 </div>
             </div>
