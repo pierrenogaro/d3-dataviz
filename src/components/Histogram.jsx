@@ -67,7 +67,6 @@ const Histogram = () => {
 
     return (
         <div className="w-full flex flex-col items-center">
-            <h3 className='text mb-4'>Histogram</h3>
             <svg ref={svgRef} className="w-full max-w-xl"></svg>
         </div>
     );
